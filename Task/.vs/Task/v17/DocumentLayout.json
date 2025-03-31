@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Liuyizhao\\EngineTask\\Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F44537-6D71-4027-B112-FDA92BB44A64}|Task.vcxproj|D:\\Liuyizhao\\EngineTask\\Task\\Source\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8F44537-6D71-4027-B112-FDA92BB44A64}|Task.vcxproj|solutionrelative:Source\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Liuyizhao\\EngineTask\\Task\\Source\\main.cpp",
+              "RelativeDocumentMoniker": "Source\\main.cpp",
+              "ToolTip": "D:\\Liuyizhao\\EngineTask\\Task\\Source\\main.cpp",
+              "RelativeToolTip": "Source\\main.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-31T02:48:55.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
